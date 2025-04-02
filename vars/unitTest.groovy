@@ -1,3 +1,3 @@
 def call() {
-    sh './gradlew test'
+    sh 'gradle test'
 }
