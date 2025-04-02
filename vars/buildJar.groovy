@@ -1,3 +1,3 @@
 def call() {
-    sh 'cd FinalProjectCode/web-app && ./gradlew build'
+    sh 'cd ~/workspace/ivolve-project/FinalProjectCode/web-app && ./gradlew build'
 }
